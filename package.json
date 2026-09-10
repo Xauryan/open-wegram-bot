@@ -11,6 +11,6 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "vercel": "^41.4.1",
-    "wrangler": "^4.0.0"
+    "wrangler": "^4.131.0"
   }
 }
